@@ -167,11 +167,11 @@ d) Decision Tree
 
 Report Snapshot (Power BI Desktop)
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/rahulgowda2003/Loan-Default-Power-BI-Service-Workspace-MS-SQL-Server/blob/main/Loan%20Default%20Overview%20Screenshot.png)
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/rahulgowda2003/Loan-Default-Power-BI-Service-Workspace-MS-SQL-Server/blob/main/Application%20demographic%20and%20Financial%20profile%20Screenshot.png)
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/rahulgowda2003/Loan-Default-Power-BI-Service-Workspace-MS-SQL-Server/blob/main/Financial%20Risk%20Metrix%20Screenshot.png)
 
 
 # Insights
