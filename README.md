@@ -1,4 +1,4 @@
-# Loan Default and Financial Insight Report -| Power BI Service | MS SQL Server| power BI Desktop |
+# Loan Default and Financial Insight Report -| Power BI Service | MS SQL Server| power BI Desktop 
 
 A comprehensive analytical dashboard/report exploring loan defaults, borrower demographics, financial behavior, and credit risk using Power BI.
 
